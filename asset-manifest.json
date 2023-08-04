@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/JeansShop/static/css/main.d735da01.css",
+    "main.js": "/JeansShop/static/js/main.81205858.js",
+    "static/media/wide-blue.jpg": "/JeansShop/static/media/wide-blue.e0415aef390f43754cb9.jpg",
+    "static/media/simple-blue.jpg": "/JeansShop/static/media/simple-blue.35bd17715af9e06571c9.jpg",
+    "static/media/featured3.jpg": "/JeansShop/static/media/featured3.e01eb63c08e2da214fa3.jpg",
+    "static/media/simple-dark.jpg": "/JeansShop/static/media/simple-dark.be27af9f08a0378403c3.jpg",
+    "static/media/featured4.jpg": "/JeansShop/static/media/featured4.6973d6a99a9dbdea717a.jpg",
+    "static/media/featured2.jpg": "/JeansShop/static/media/featured2.16b6049a220f251187ce.jpg",
+    "static/media/featured2-2.jpg": "/JeansShop/static/media/featured2-2.af67b6deb150f6f15e9c.jpg",
+    "static/media/pockets-dark.jpg": "/JeansShop/static/media/pockets-dark.ba5fc2d837f009d4049f.jpg",
+    "static/media/featured1.jpg": "/JeansShop/static/media/featured1.6aba57d23bc23ea84800.jpg",
+    "static/media/featured1-2.jpg": "/JeansShop/static/media/featured1-2.74e7d9ee7b5cfedef2b2.jpg",
+    "index.html": "/JeansShop/index.html",
+    "main.d735da01.css.map": "/JeansShop/static/css/main.d735da01.css.map",
+    "main.81205858.js.map": "/JeansShop/static/js/main.81205858.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d735da01.css",
+    "static/js/main.81205858.js"
+  ]
+}
